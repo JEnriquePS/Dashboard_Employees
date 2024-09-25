@@ -79,3 +79,6 @@ Una vez ejecutado el servidor Flask, puedes acceder a la aplicación en la direc
 | `employees/`           | Endpoint muestra todos los empleados en json |
 | `employees/dashboard/` | Página de Dashboard                          |
 
+
+
+![Project_Screenshot_2024-09-25_16.12.18.png](Project_Screenshot_2024-09-25_16.12.18.png)

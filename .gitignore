@@ -176,3 +176,6 @@ pyrightconfig.json
 
 # Pycharm
 .idea/
+
+# macOS
+.DS_Store
